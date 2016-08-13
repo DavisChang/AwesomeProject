@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "react",
+    "security"
+  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended"]
+}
